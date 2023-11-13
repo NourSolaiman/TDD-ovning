@@ -1,4 +1,5 @@
 using FizzBuzz;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace FizzBuzzTest
 {
@@ -63,16 +64,40 @@ namespace FizzBuzzTest
             //Assert
             Assert.Equal("2", result.ToString());
         }
+
+        [Fact]
+        public void When_FizzBuzzKalkyl_Message()
+        {
+            //Arrange
+            StringWriter stringWriter = new StringWriter();
+            
+            Console.SetOut(stringWriter);
+            
+            var expected = "ABCDEFG";
+
+
+            //Act
+            Kalkylator.LogMessage(expected);
+			var actuall = stringWriter.ToString().Trim();
+
+			//var result = stringWriter.ToString().Trim();
+			//Assert
+			Assert.Equal(expected, actuall);
+        }
+                
         [Fact]
         public void When_FuzzBuzzKalkyl_String()
         {
-            //Arrange
-            string number = "5";
+			//Arrange
             //Act
-            var result = Kalkylator.FizzBuzzKalkyl(number);
+            Action act = () => Kalkylator.CheckIfNumber("k");
+
+            
+
 			//Assert
-            Assert.Equal("");
+            Assert.Equal($"k is not a number", act);
 
 		}
+        
 	}
 }
