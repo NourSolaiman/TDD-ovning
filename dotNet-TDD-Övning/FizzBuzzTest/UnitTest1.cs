@@ -52,5 +52,27 @@ namespace FizzBuzzTest
             //Assert
             Assert.Equal("FizzBuzz", result.ToString());
         }
-    }
+        [Fact]
+        public void When_FizzBuzzKalkyl_Number()
+        {
+            //Arrange
+            int number = 2;
+
+            //Act
+            var result = Kalkylator.FizzBuzzKalkyl(number);
+            //Assert
+            Assert.Equal("2", result.ToString());
+        }
+        [Fact]
+        public void When_FuzzBuzzKalkyl_String()
+        {
+            //Arrange
+            string number = "5";
+            //Act
+            var result = Kalkylator.FizzBuzzKalkyl(number);
+			//Assert
+            Assert.Equal("");
+
+		}
+	}
 }
