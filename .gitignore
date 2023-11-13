@@ -2,9 +2,4 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/dotNet-TDD-Övning/.vs/dotNet-TDD-Övning/FileContentIndex/96a43e82-c987-4209-9718-a5fe88d4287f.vsidx
-/dotNet-TDD-Övning/.vs/dotNet-TDD-Övning/FileContentIndex/da9f781b-a6d0-4dbc-a403-4ec0db9f34a1.vsidx
-/dotNet-TDD-Övning/.vs/dotNet-TDD-Övning/FileContentIndex/635468a0-e953-4120-84bc-fb6e5ee0949f.vsidx
-/dotNet-TDD-Övning/.vs/dotNet-TDD-Övning/FileContentIndex/ef81e394-222a-40ed-afaa-c3e8bedb44be.vsidx
-/dotNet-TDD-Övning/.vs/dotNet-TDD-Övning/v17/TestStore/0/001.testlog
-/dotNet-TDD-Övning/.vs/dotNet-TDD-Övning/v17/TestStore/0/testlog.manifest
+/.gitignore
