@@ -9,3 +9,14 @@ C:\Users\tobii\Desktop\TDD-Övning\dotNet-TDD-Övning\FizzBuzz\obj\Debug\net7.0\
 C:\Users\tobii\Desktop\TDD-Övning\dotNet-TDD-Övning\FizzBuzz\obj\Debug\net7.0\refint\FizzBuzz.dll
 C:\Users\tobii\Desktop\TDD-Övning\dotNet-TDD-Övning\FizzBuzz\obj\Debug\net7.0\FizzBuzz.pdb
 C:\Users\tobii\Desktop\TDD-Övning\dotNet-TDD-Övning\FizzBuzz\obj\Debug\net7.0\ref\FizzBuzz.dll
+C:\Users\mnour\source\repos\TDD-Övning\dotNet-TDD-Övning\FizzBuzz\bin\Debug\net7.0\FizzBuzz.deps.json
+C:\Users\mnour\source\repos\TDD-Övning\dotNet-TDD-Övning\FizzBuzz\bin\Debug\net7.0\FizzBuzz.dll
+C:\Users\mnour\source\repos\TDD-Övning\dotNet-TDD-Övning\FizzBuzz\bin\Debug\net7.0\FizzBuzz.pdb
+C:\Users\mnour\source\repos\TDD-Övning\dotNet-TDD-Övning\FizzBuzz\obj\Debug\net7.0\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mnour\source\repos\TDD-Övning\dotNet-TDD-Övning\FizzBuzz\obj\Debug\net7.0\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\mnour\source\repos\TDD-Övning\dotNet-TDD-Övning\FizzBuzz\obj\Debug\net7.0\FizzBuzz.AssemblyInfo.cs
+C:\Users\mnour\source\repos\TDD-Övning\dotNet-TDD-Övning\FizzBuzz\obj\Debug\net7.0\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\mnour\source\repos\TDD-Övning\dotNet-TDD-Övning\FizzBuzz\obj\Debug\net7.0\FizzBuzz.dll
+C:\Users\mnour\source\repos\TDD-Övning\dotNet-TDD-Övning\FizzBuzz\obj\Debug\net7.0\refint\FizzBuzz.dll
+C:\Users\mnour\source\repos\TDD-Övning\dotNet-TDD-Övning\FizzBuzz\obj\Debug\net7.0\FizzBuzz.pdb
+C:\Users\mnour\source\repos\TDD-Övning\dotNet-TDD-Övning\FizzBuzz\obj\Debug\net7.0\ref\FizzBuzz.dll
