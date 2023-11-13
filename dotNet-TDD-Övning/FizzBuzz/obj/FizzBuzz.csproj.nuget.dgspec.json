@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tobii\\Desktop\\TDD-Övning\\dotNet-TDD-Övning\\FizzBuzz\\FizzBuzz.csproj": {}
+    "C:\\Users\\mnour\\source\\repos\\TDD-Övning\\dotNet-TDD-Övning\\FizzBuzz\\FizzBuzz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tobii\\Desktop\\TDD-Övning\\dotNet-TDD-Övning\\FizzBuzz\\FizzBuzz.csproj": {
+    "C:\\Users\\mnour\\source\\repos\\TDD-Övning\\dotNet-TDD-Övning\\FizzBuzz\\FizzBuzz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tobii\\Desktop\\TDD-Övning\\dotNet-TDD-Övning\\FizzBuzz\\FizzBuzz.csproj",
+        "projectUniqueName": "C:\\Users\\mnour\\source\\repos\\TDD-Övning\\dotNet-TDD-Övning\\FizzBuzz\\FizzBuzz.csproj",
         "projectName": "FizzBuzz",
-        "projectPath": "C:\\Users\\tobii\\Desktop\\TDD-Övning\\dotNet-TDD-Övning\\FizzBuzz\\FizzBuzz.csproj",
-        "packagesPath": "C:\\Users\\tobii\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tobii\\Desktop\\TDD-Övning\\dotNet-TDD-Övning\\FizzBuzz\\obj\\",
+        "projectPath": "C:\\Users\\mnour\\source\\repos\\TDD-Övning\\dotNet-TDD-Övning\\FizzBuzz\\FizzBuzz.csproj",
+        "packagesPath": "C:\\Users\\mnour\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mnour\\source\\repos\\TDD-Övning\\dotNet-TDD-Övning\\FizzBuzz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tobii\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mnour\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
