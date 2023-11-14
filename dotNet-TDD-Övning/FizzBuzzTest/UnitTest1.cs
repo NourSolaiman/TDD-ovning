@@ -87,10 +87,10 @@ namespace FizzBuzzTest
         [Fact]
         public void When_FuzzBuzzKalkyl_String()
         {
-			//Arrange
-            //Act
+            //Arrange
             Action act = () => Kalkylator.CheckIfNumber("k");
 
+            //Act
             ArgumentException exception = Assert.Throws<ArgumentException>(act);
 
 			//Assert
