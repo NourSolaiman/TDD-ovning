@@ -80,7 +80,6 @@ namespace FizzBuzzTest
             Kalkylator.LogMessage(expected);
 			var actuall = stringWriter.ToString().Trim();
 
-			//var result = stringWriter.ToString().Trim();
 			//Assert
 			Assert.Equal(expected, actuall);
         }
@@ -92,10 +91,10 @@ namespace FizzBuzzTest
             //Act
             Action act = () => Kalkylator.CheckIfNumber("k");
 
-            
+            ArgumentException exception = Assert.Throws<ArgumentException>(act);
 
 			//Assert
-            Assert.Equal($"k is not a number", act);
+            Assert.Equal($"k is not a number", exception.Message);
 
 		}
         

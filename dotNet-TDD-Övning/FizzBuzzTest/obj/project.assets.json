@@ -5534,19 +5534,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mnour\\.nuget\\packages\\": {}
+    "C:\\Users\\tobii\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mnour\\source\\repos\\TDD-Övning\\dotNet-TDD-Övning\\FizzBuzzTest\\FizzBuzzTest.csproj",
+      "projectUniqueName": "C:\\Users\\tobii\\Desktop\\TDD\\dotNet-TDD-Övning\\FizzBuzzTest\\FizzBuzzTest.csproj",
       "projectName": "FizzBuzzTest",
-      "projectPath": "C:\\Users\\mnour\\source\\repos\\TDD-Övning\\dotNet-TDD-Övning\\FizzBuzzTest\\FizzBuzzTest.csproj",
-      "packagesPath": "C:\\Users\\mnour\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mnour\\source\\repos\\TDD-Övning\\dotNet-TDD-Övning\\FizzBuzzTest\\obj\\",
+      "projectPath": "C:\\Users\\tobii\\Desktop\\TDD\\dotNet-TDD-Övning\\FizzBuzzTest\\FizzBuzzTest.csproj",
+      "packagesPath": "C:\\Users\\tobii\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tobii\\Desktop\\TDD\\dotNet-TDD-Övning\\FizzBuzzTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mnour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tobii\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5560,8 +5560,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\mnour\\source\\repos\\TDD-Övning\\dotNet-TDD-Övning\\FizzBuzz\\FizzBuzz.csproj": {
-              "projectPath": "C:\\Users\\mnour\\source\\repos\\TDD-Övning\\dotNet-TDD-Övning\\FizzBuzz\\FizzBuzz.csproj"
+            "C:\\Users\\tobii\\Desktop\\TDD\\dotNet-TDD-Övning\\FizzBuzz\\FizzBuzz.csproj": {
+              "projectPath": "C:\\Users\\tobii\\Desktop\\TDD\\dotNet-TDD-Övning\\FizzBuzz\\FizzBuzz.csproj"
             }
           }
         }
@@ -5613,7 +5613,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -3,3 +3,29 @@
 ################################################################################
 
 /.gitignore
+# Ignore built files and directories
+bin/
+obj/
+
+# Ignore Visual Studio files
+.vs/
+*.suo
+*.user
+*.userprefs
+*.dll
+*.pdb
+
+# Ignore xUnit test results
+TestResults/
+*.trx
+
+# Ignore NuGet packages
+packages/
+*.nupkg
+
+# Ignore ReSharper files
+_ReSharper*/
+
+# Ignore build and publish related files
+publish/
+*.publishsettings

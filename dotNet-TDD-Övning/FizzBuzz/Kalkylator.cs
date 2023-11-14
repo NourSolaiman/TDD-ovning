@@ -35,7 +35,7 @@
 			}
 			catch
 			{
-				throw new Exception($"{number} is not a number");
+				throw new ArgumentException($"{number} is not a number");
 			}
 
 
